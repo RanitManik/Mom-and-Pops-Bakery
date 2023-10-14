@@ -11,9 +11,9 @@
   <br>
 <a href="https://ranitmanik.github.io/Mom-and-Pops-Bakery/">View Live Demo</a>
 ·
-<a href="https://ranitmanik.github.io/Mom-and-Pops-Bakery/">Report Bug</a>
+<a href=".github/bug-report---.md">Report Bug</a>
 ·
-<a href="https://ranitmanik.github.io/Mom-and-Pops-Bakery/">Request Feature</a>
+<a href=".github/feature-request---.md">Request Feature</a>
   </p>
 </div>
 <br>
