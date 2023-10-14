@@ -22,8 +22,6 @@
 
 ---
 
-Welcome to the Mom & Pop's Bakery Website repository! This project is a dedicated space for me to sharpen my skills in web development, particularly in HTML, CSS, Bootstrap, and overall web design. The goal is to craft a unique, visually captivating website from scratch, showcasing our bakery's delightful offerings.
-
 # Key Features
 
 - Explore a delightful assortment of cakes and pastries with detailed descriptions and prices.
