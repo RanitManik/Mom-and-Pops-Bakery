@@ -1,0 +1,42 @@
+.testimon1 {
+  padding: 35px;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  position: relative;
+  margin-bottom: 50px;
+}
+
+.testimon1 .testicon p {
+  margin-bottom: 20px;
+  color: #999;
+  line-height: 30px;
+}
+
+.testimon1 .testimopic {
+  display: inline-block;
+  position: absolute;
+  bottom: -40px;
+  border-radius: 50%;
+}
+
+.testimon1 .testimopic img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 8px solid #fff;
+  box-shadow: 0 0 0 1px rgba(49, 49, 49, 0.07);
+}
+
+.testimon1 .testimoin {
+  text-align: right;
+}
+
+.testimon1 .posit {
+  font-size: 12px;
+  color: #888;
+}
+
+.testimon1 .posit a {
+  color: #888;
+}
+

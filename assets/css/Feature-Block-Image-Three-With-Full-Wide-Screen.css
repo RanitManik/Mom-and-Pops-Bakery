@@ -1,0 +1,29 @@
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+  position: relative;
+}
+
+#promo {
+  margin-top: 65px;
+}
+
+@media (max-width: 600px) {
+  img {
+  }
+}
+
+@media (max-width: 300px) {
+  .round-3.bg-img {
+    padding: 18px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .row {
+  }
+}
+
+@media (min-width: 1400px) {
+  div {
+  }
+}
+
