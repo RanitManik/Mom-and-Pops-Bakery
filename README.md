@@ -33,9 +33,14 @@ Welcome to the Mom & Pop's Bakery Website repository! This project is a dedicate
 
 # Technologies Utilized
 
+![icons8-html-48](https://github.com/RanitManik/Mom-and-Pops-Bakery/assets/138437760/1a44b6a7-fb06-4aba-bad2-5c782651ba61)
+![icons8-css-48](https://github.com/RanitManik/Mom-and-Pops-Bakery/assets/138437760/407f1348-5c66-4836-b9bf-3cd0a36ae5ae)
+![icons8-bootstrap-48](https://github.com/RanitManik/Mom-and-Pops-Bakery/assets/138437760/ee9b311b-f9de-4a79-9dba-82b7d54b3d20)
+
 - HTML5
 - CSS3
-- Bootstrap5
+- Bootstrap
+
 
 # Getting Started
 
