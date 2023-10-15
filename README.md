@@ -18,7 +18,7 @@
 </div>
 <br>
 
-![image](https://github.com/RanitManik/Mom-and-Pops-Bakery/assets/138437760/8d63979a-909a-47a2-98cd-528ee00bba6f)
+![screencapture-127-0-0-1-5500-index-html-2023-10-15-13_23_30](https://github.com/RanitManik/Mom-and-Pops-Bakery/assets/138437760/2d22b6b7-c5b3-41d3-8b5f-664612fafd39)
 
 ---
 
@@ -31,9 +31,9 @@
 
 # Technologies Utilized
 
-![icons8-html-48](https://github.com/RanitManik/Mom-and-Pops-Bakery/assets/138437760/1a44b6a7-fb06-4aba-bad2-5c782651ba61)
-![icons8-css-48](https://github.com/RanitManik/Mom-and-Pops-Bakery/assets/138437760/407f1348-5c66-4836-b9bf-3cd0a36ae5ae)
-![icons8-bootstrap-48](https://github.com/RanitManik/Mom-and-Pops-Bakery/assets/138437760/ee9b311b-f9de-4a79-9dba-82b7d54b3d20)
+![icons8-html-48](https://github.com/RanitManik/Mom-and-Pops-Bakery/assets/138437760/c594a0ea-6814-49d5-be42-42ed554d6914)
+![icons8-css-48](https://github.com/RanitManik/Mom-and-Pops-Bakery/assets/138437760/8e945635-63f1-4770-acba-ff21584f1b05)
+![icons8-bootstrap-48](https://github.com/RanitManik/Mom-and-Pops-Bakery/assets/138437760/d2153eab-1188-4bac-85ac-d87153a3fc60)
 
 - HTML5
 - CSS3
