@@ -72,4 +72,16 @@ _To get started with this project, follow these steps :_
 
 <!-- CONTACT -->
 
----
+# Roadmap
+
+- [ ] Feature 1
+- [ ] Feature 2
+- [ ] Feature 3
+  - [ ] Nested Feature
+
+
+ [open issues](.github/bug-report---.md) for a full list of and known issues.
+ 
+ [open features](.github/feature-request---.md) to propose a feature.
+
+ ---
