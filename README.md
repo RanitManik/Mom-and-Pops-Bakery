@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/YourUsername/Mom-and-Pops-Bakery">
-    <img src="assets/img/logo.png" alt="Logo" height="70">
+    <img src="assets/img/logo.png" alt="Logo" height="80">
   </a>
 <h1> Mom & Pop's Bakery
 </h1>
